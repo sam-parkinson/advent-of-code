@@ -247,7 +247,7 @@ const store = {
     0,
     14,
     0
-  ]
+  ],
 }
 
 module.exports = store;
